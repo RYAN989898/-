@@ -1,6 +1,7 @@
 # 
 
 参考文献：
+
 1.Fox S, Griffy-Brown C. Technology assessment, evaluation, and forecasting in society: Technology in Society Briefing. Technology in Society. 2023;72(C).
 
 2.Parolin G, Mcaloone TC, Pigosso DC. How can technology assessment tools support sustainable innovation? A systematic literature review and synthesis. Technovation. 2024;129:102881.
