@@ -59,3 +59,9 @@
 28.Lewis P, Perez E, Piktus A, Petroni F, Karpukhin V, Goyal N, et al. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in Neural Information Processing Systems. 2020;33:9459-74.
 
 29.Gao Y, Xiong Y, Gao X, Jia K, Pan J, Bi Y, et al. Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:231210997. 2023.
+
+30.Lian X, Zhang Y, Wu M, et al. Do scientific knowledge flows inspire exploratory innovation? Evidence from US biomedical and life sciences firms[J]. Technovation, 2025, 140: 103153.
+
+31.Jia R, Wu M, Ding Y, et al. HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation[J]. arXiv preprint arXiv:2501.01203, 2025.
+
+32.Zhang Y, Wu M, Zhang G, et al. Responsible AI: Portraits with Intelligent Bibliometrics[J]. IEEE Transactions on Artificial Intelligence, 2024.
